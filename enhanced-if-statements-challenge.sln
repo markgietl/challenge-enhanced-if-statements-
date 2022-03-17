@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enhanced-if-statements-challenge", "enhanced-if-statements-challenge\enhanced-if-statements-challenge.csproj", "{9C97C1B3-7950-4913-9E2A-084254AC7FE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C97C1B3-7950-4913-9E2A-084254AC7FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C97C1B3-7950-4913-9E2A-084254AC7FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C97C1B3-7950-4913-9E2A-084254AC7FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C97C1B3-7950-4913-9E2A-084254AC7FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E26CA107-94AC-406E-BA12-9D0A91204C56}
+	EndGlobalSection
+EndGlobal
